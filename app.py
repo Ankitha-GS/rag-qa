@@ -1,5 +1,5 @@
 """
-Streamlit UI — upload docs, ask questions with streaming, run evals, compare chunk sizes.
+Streamlit UI — upload docs, ask questions with streaming, run evals, compare chunk sizes
 Run: streamlit run app.py
 """
 
